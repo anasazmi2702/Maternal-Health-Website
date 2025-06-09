@@ -1,3 +1,40 @@
+# Comprehensive Maternal Health Website for Expectant Mothers
+
+A dynamic web platform designed to provide expectant mothers with accessible, evidence-based resources on pregnancy, nutrition, and postpartum care.
+
+## 📚 Project Overview
+The Comprehensive Maternal Health Website aims to bridge the information gap faced by expectant mothers by offering:
+- Reliable articles on prenatal and postnatal care.
+- Personalized nutritional guidance based on expert recommendations.
+- Pregnancy progress tracking tools including a due date calculator.
+- Calorie tracking feature tailored for pregnancy health needs.
+- Interactive quizzes for knowledge assessment.
+- Community discussion forum for peer support.
+- Administrator dashboard for managing content, users, and quizzes.
+
+Developed with input from dietitians and confinement center professionals, this platform ensures the content is both medically accurate and culturally relevant, particularly for the Malaysian audience.
+
+## 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP (Yii2 Framework)
+- **Database**: MySQL
+
+## 🚀 Key Features
+- User-friendly interface for easy navigation.
+- Real-time pregnancy tracking and due date prediction.
+- Calorie tracker for personalized dietary monitoring.
+- Community forum for user interaction and support.
+- Admin panel for content and user management.
+
+## 🏗️ How to Run Locally
+1. Install [XAMPP](https://www.apachefriends.org/index.html) or [Laragon](https://laragon.org/).
+2. Clone or download this repository.
+3. Import `bellyblossom_db.sql` into your MySQL database.
+4. Place the project folder inside the `htdocs` or `www` directory.
+5. Access the system via `http://localhost/bellyblossom/`.
+
+---
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
